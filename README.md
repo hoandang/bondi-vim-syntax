@@ -1,4 +1,4 @@
-lone from [raphael-proust/ocaml_lwt.vim](https://github.com/raphael-proust/ocaml_lwt.vim)
+## Clone from [raphael-proust/ocaml_lwt.vim](https://github.com/raphael-proust/ocaml_lwt.vim)
 * * *
 > Clone the bondi.vim file into ~/.vim/syntax/. Then stick these of lines into your .vimrc
 
